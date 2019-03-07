@@ -2994,7 +2994,7 @@ WHERE        (CreatedOn &gt;= ?) OR
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="EST_GetLastExecutedDateTime"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -3015,7 +3015,7 @@ WHERE        (CreatedOn &gt;= ?) OR
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="EST_GetLatestEndExecutedDateTime"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -3031,7 +3031,7 @@ WHERE        (CreatedOn &gt;= ?) OR
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Execute SQL Task"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -5375,7 +5375,7 @@ WHERE        (CreatedOn &gt;= ?) OR
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="EST_GetLastExecutedDateTime"
-          DTS:ThreadHint="0">
+          DTS:ThreadHint="1">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -5396,7 +5396,7 @@ WHERE        (CreatedOn &gt;= ?) OR
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="EST_GetLatestEndExecutedDateTime"
-          DTS:ThreadHint="0">
+          DTS:ThreadHint="1">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -5412,7 +5412,7 @@ WHERE        (CreatedOn &gt;= ?) OR
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Execute SQL Task"
-          DTS:ThreadHint="0">
+          DTS:ThreadHint="1">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData

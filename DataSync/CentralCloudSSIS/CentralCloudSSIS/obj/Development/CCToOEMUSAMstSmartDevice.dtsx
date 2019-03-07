@@ -11,8 +11,8 @@
   DTS:LocaleID="16393"
   DTS:ObjectName="CCToOEMUSAMstSmartDevice"
   DTS:PackageType="5"
-  DTS:VersionBuild="113"
-  DTS:VersionGUID="{77B6732E-11FF-4203-B2CC-E9A2B9AD8007}">
+  DTS:VersionBuild="114"
+  DTS:VersionGUID="{33268CD4-C861-4196-8498-1ACC023D7FF4}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables>
