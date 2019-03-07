@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "CentralCloudSSIS", "CentralCloudSSIS\CentralCloudSSIS.dtproj", "{FF873507-85BA-44B8-93F8-6D707EDFFC0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF873507-85BA-44B8-93F8-6D707EDFFC0E}.Development|Default.ActiveCfg = Development
+		{FF873507-85BA-44B8-93F8-6D707EDFFC0E}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8D2CF40-9D11-4FD7-97D0-A1BF5B518FD2}
+	EndGlobalSection
+EndGlobal

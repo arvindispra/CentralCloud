@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="OEMCloudUSA"
+  DTS:DTSID="{53276050-CA1F-44FB-A562-F21BC548C866}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=oemfactoryusa.database.windows.net;User ID=ebest;Initial Catalog=OEMFactoryUSA;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;Application Name=SSIS-{53276050-CA1F-44FB-A562-F21BC548C866}OEMCloudUSA;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAIjIrBZBRE0GSGyM6dsIAoAAAAAACAAAAAAAQZgAAAAEAACAAAAAWmcfXGCNEaISuEej4GkGzSc1fRjOSLmDJKArizhJiCAAAAAAOgAAAAAIAACAAAABFtIi5/BiqEo1o1Fnth6soNcmY/sDZ8MrqC3Qv3n6deYAAAAAhm5RMqSZ3d5XlKD0apJ9Puj542Fmg29arHsBu9AvmzUox1zu+5Sz+zvmKCZdPc4nqKEIootX7Ow0pQXud8vXbN3iaf18WDkw/yBGtNy1CJzlowR98ohaOJ+wO/PnHMnpNT2wm0C7ZkjrVry/wsld0eh+aBjcMoyK8k8kCwB6OWkAAAAAX1nlOY67M9+c+qJo9T9rCuz6xv5nt0g3zwUiDHhvRq9lLavx0RL9iCOo86CC5c4Xk/md4dSikGH1HoFPtSGlv</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

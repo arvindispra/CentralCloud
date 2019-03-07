@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="CentralCloud"
+  DTS:DTSID="{F3D17589-E853-4E53-813A-6CE20C736020}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:Retain="True"
+      DTS:ConnectionString="Data Source=centralcloud.database.windows.net;User ID=ebest;Initial Catalog=CentralCloud;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;Application Name=SSIS-{F3D17589-E853-4E53-813A-6CE20C736020}CentralCloud;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAIjIrBZBRE0GSGyM6dsIAoAAAAAACAAAAAAAQZgAAAAEAACAAAADXUn2sD1AfsrBg8aOvhiAgSxJg1fJEuIrtO9/kE1wTngAAAAAOgAAAAAIAACAAAABARMMYcY/3FJryq46bkB5mq8ETh1z3rCOYun5ua9ssI4AAAADc3l9Acf9Dx4cVU23FBkbvODgS8GRp9pXTVrFSIlZevUaxXWh7kGvg2Lmw8VyriGIXKDwJRn6LHiDmGHXzQyu4Jqx3xazOtRrBYJTx0xgz0XpA3AJg2oDFX+8SVh0ltw5EgcxLF36bIlh7/PaIWNFThgf18owch7RxSMgmucV2x0AAAADTKOqHrvS3vJ623w81aQH9FF3umFA53Stgjqzdng+KPVDwaay0GhsJ2Er1aLBToJcRwj9ey5xlqIJhwOZrcZB2</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
